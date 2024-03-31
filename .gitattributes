@@ -1,0 +1,4 @@
+# 全てのテキストファイル
+*.DOC text diff=sjis eol=crlf
+*.ASM text diff=sjis eol=crlf
+*.C text diff=sjis eol=crlf
