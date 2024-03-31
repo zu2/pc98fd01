@@ -1,4 +1,6 @@
-# 全てのテキストファイル
+# PC-9801由来のテキストファイル
 *.DOC text diff=sjis eol=crlf
 *.ASM text diff=sjis eol=crlf
 *.C text diff=sjis eol=crlf
+*.COM binary
+*.EXE binary
