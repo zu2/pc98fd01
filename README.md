@@ -30,3 +30,4 @@ https://github.com/zu2/pc98fd01 の issues でお願いします。
 - [ターミナルFDDモードでの720KB／1.44MBメディアの読み書き](http://ematei.s602.xrea.com/kakolog/200307.htm)
 - [買い物雑談スレ12月下旬編2](https://ematei.nomaki.jp/kakolog/200612.htm)
 - [リサイクル掲示板](http://ematei.s602.xrea.com/kakorogu39/%E3%83%AA%E3%82%B5%E3%82%A4%E3%82%AF%E3%83%AB%E6%8E%B2%E7%A4%BA%E6%9D%BF201803.htm)
+- [FB98-FDSP2共通補足事項](https://projectmps.net/fb98fdspqaa.htm)
